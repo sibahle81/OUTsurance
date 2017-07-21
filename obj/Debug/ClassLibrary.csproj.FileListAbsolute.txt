@@ -1,0 +1,7 @@
+C:\Users\Dev Laptop\Documents\GitHub\CSVProcessor\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Dev Laptop\Documents\GitHub\CSVProcessor\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Dev Laptop\Documents\GitHub\CSVProcessor\ClassLibrary\bin\Debug\CsvHelper.dll
+C:\Users\Dev Laptop\Documents\GitHub\CSVProcessor\ClassLibrary\bin\Debug\CsvHelper.xml
+C:\Users\Dev Laptop\Documents\GitHub\CSVProcessor\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Dev Laptop\Documents\GitHub\CSVProcessor\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Dev Laptop\Documents\GitHub\CSVProcessor\ClassLibrary\obj\Debug\ClassLibrary.pdb
